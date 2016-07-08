@@ -48,6 +48,62 @@ body {
 
 
 /** ***************** Анна ***************** **/
+.background-black {
+	background-color: #1d1b19;
+}
+.block-6 {
+	color: #fff;
+	padding: 55px 4% 70px 8%;
+}
+.block-6 h2 {
+	font-size: 2em;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 50px;
+}
+.main-blue {
+	color: #16a9e0;
+}
+.episode {
+	display: inline-block;
+	min-width: 250px;
+	width: 20%;
+	margin-right: 30px;
+	margin-bottom: 35px;
+	vertical-align: top;
+}
+.block-6 .episode img {
+	width: 100%;
+}
+.episode-header {
+	font-size: 1.5em;
+	margin-top: 40px;
+	margin-bottom: 0;
+}
+.block-6 .episode p:first-of-type {
+	margin-top: 0;
+}
+.block-6 .episode p {
+	margin-bottom: 15px;
+}
+.episode-link {
+	text-decoration: none;
+}
+.episode-link:hover {
+	text-decoration: underline;
+}
+.block-6 footer {
+	text-align: center;
+	margin-top: 20px;
+}
+.more-episodes-button {
+	padding: 15px 20px;
+	border: 2px solid #21b5e5;
+	border-radius: 4px;
+	font-size: 1.5em;
+	font-family: inherit;
+	cursor: pointer;
+}
 /** ***************** Анна ***************** **/
 
 
